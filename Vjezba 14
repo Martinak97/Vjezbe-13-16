@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>HTML5</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Martina Koprivčić">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<style>
+			h1 { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, sans-serif;
+					font-weight: bold; font-size: 24px;}
+			p { font-family: Verdana, Helvetica, sans-serif;
+				font-size: 12px; }
+			.citat { font-style: italic; font-weight: bold; background-color: #ffccfc;
+					border: 2px solid violet; padding: 6px; }
+		</style>
+	</head>
+<body>
+	<h1>Euphoria (American TV series)</h1>
+	<div style="width: 75%; float: left;" align="justify">
+        <p>Euphoria is an American teen drama television series created and written by Sam Levinson for HBO. It is based on the Israeli television miniseries of the same name created by Ron Leshem and Daphna Levin. The series follows a group of high school students through their experiences of identity, trauma, drugs, friendships, love, and sex. It stars Zendaya, alongside an ensemble cast consisting of Maude Apatow, Angus Cloud, Eric Dane, Alexa Demie, Jacob Elordi, Barbie Ferreira, Nika King, Storm Reid, Hunter Schafer, Algee Smith, Sydney Sweeney, Colman Domingo, Javon Walton, Austin Abrams, and Dominic Fike.</p>
+    </div>
+	<div style="width: 75%; float: left;" align="justify">
+        <p class="citat">The second season premiered on January 9, 2022.</p>
+    </div>
+</body>
+</html>
