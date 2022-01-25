@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>HTML5</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Martina Koprivčić">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<style>
+			html, body { background-color: rgb(255, 217, 244); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sens-serif;
+						width: 90%; margin: 0 auto;}
+			h1, p { color: rgb(165, 31, 131); margin: 0 0 10px 0; padding: 0; }
+			img { float: left; width: 50%; margin: 0 15px 10px 0; padding: 0; }
+		</style>
+	</head>
+	<body>
+		<h1 style="text-align:center;"> NikkieTutorials</h1>
+			<img height="500" width="300" src="nikki.jpg">
+		<p>Nikkie de Jager, poznatija pod imenom YouTube kanal NikkieTutorials, nizozemska je šminkerica i beauty vlogerica. Popularnost na mreži stekla je 2015. godine nakon što je njezin YouTube video "Moć šminke" postao popularan i nadahnuo mnoge druge video zapise ljudi koji pokazuju lica sa i bez šminke.De Jager je prvi put počeo prenositi videozapise na YouTube 2008., u dobi od 14 godina, nakon što je gledao MTV The Hills dok je bio bolestan i nadahnut šminkom Lauren Conrad. Potom je započela s pretraživanjem YouTubea za tutorijale za ponovno stvaranje izgleda i bila je nadahnuta da započne stvarati vlastiti. Nakon što je otprilike dvije godine slala videozapise, upisala je tečajeve šminkanja na B Academy u Amsterdamu. Potom je 2011. potpisala ugovor s agencijom Colourfool i počela raditi kao profesionalna šminkerica.
+
+            U jesen 2013. postala je glavna šminkerica emisije RTL 5 I Can Make You supermodel s Paulom Fisherom . De Jager napustio je agenciju Colourfool početkom 2014. godine da bi radio kao slobodni frizer i šminker.
+            
+            Časopis Forbes proglasio je De Jagera jednim od deset najboljih beauty influencera "u 2017. U 2017. godini također je osvojila nagradu za„ YouTube gurua "na Shorty Awards i nagradu za„ Choice Fashion / Beauty Web Star "na Teen Choice Awards .Wikipedia  site:hr2.wiki </p>
+		<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=qY3L1bPNBAw&ab_channel=NikkieTutorials" frameborder="0" style="margin-top: 10px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+</html>
